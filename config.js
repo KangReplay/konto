@@ -68,7 +68,7 @@ global.packname2 = 'DepTzy'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'Depinn
+global.nameown1= 'Depinn'
 global.nameown2 = 'Depinn'
 
 /*============== STAFF ==============*/
